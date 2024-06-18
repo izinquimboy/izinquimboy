@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Iziel Inquimboy and I'm a CS Student at NC State University, from Pinehurst, NC.</p>
+<p align="left">My name is Iziel Inquimboy and I'm a CS Student at NC State University from Pinehurst, NC.</p>
 
 ###
 
