@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning mySQL, HTML/CSS, and RESTful API<br>🎯 Goals: Internship 2025</p>
+<p align="left">📚 I'm currently learning mySQL, HTML/CSS, and JSON API<br>🎯 Goals: Internship 2025</p>
 
 ###
 
