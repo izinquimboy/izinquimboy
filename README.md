@@ -1,5 +1,5 @@
-#  About Me:
-A passionate CS Student at NC State University. I am currently learning Spring Boot Framework through a project that integrates Spotify API. 
+# 👋 About Me:
+Hi! I am a passionate CS Student at NC State University. I am currently learning Spring Boot Framework through a project that integrates Spotify API. 
 
 
 ## Socials:
