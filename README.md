@@ -1,7 +1,7 @@
 
 # 👋 About Me:
 Hi! I am a passionate CS Student at NC State University 🐺 <br>
-Currently working on a project using the Spring Boot Framework 🪴
+Currently learning Spring Boot Web Framework 🪴
 
 
 ## Socials:
