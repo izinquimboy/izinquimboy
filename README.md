@@ -1,18 +1,23 @@
+# Iziel Inquimboy
 
-# 👋 About Me:
-Hi! I am a passionate CS Student at NC State University 🐺 <br>
-Currently learning Spring Boot Web Framework 🪴
+CS @ NC State · Integration Engineer Intern @ Peter Millar · Raleigh, NC
 
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/iziel-inquimboy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irinquim@ncsu.edu) 
-
-# Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![JUnit](	https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![InelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+Building software that solves real problems — and volunteering with YoungLife when I'm off the keyboard.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=izinquimboy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages:** Java · Python · JavaScript · C · HTML/CSS  
+**Tools:** Spring Boot · Docker · Microsoft Azure · REST APIs · Git
+
+---
+
+### Projects
+- [**Spotistats**](https://github.com/izinquimboy/spotistats) — Spotify analytics dashboard with OAuth2, PostgreSQL & Chart.js
+- [**To-Do List App**](https://github.com/izinquimboy/todo-spring-boot) — Full CRUD task manager with Spring Boot & MySQL
+- [**Weather Forecast App**](https://github.com/izinquimboy/javaWeatherForecast) — Java desktop app consuming a live weather REST API
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iziel--inquimboy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iziel-inquimboy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-izielinq-black?style=flat&logo=github&logoColor=white)](https://izinquimboy.github.io/izielinq-website)
+[![Email](https://img.shields.io/badge/Email-irinquim@ncsu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:irinquim@ncsu.edu)
