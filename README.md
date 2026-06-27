@@ -5,7 +5,6 @@
 **CS @ NC State &nbsp;·&nbsp; Integration Engineer Intern @ Peter Millar &nbsp;·&nbsp; Raleigh, NC**
 
 Building software that solves real problems —
-and volunteering with YoungLife when I'm off the keyboard.
 
 <br/>
 
@@ -17,7 +16,7 @@ and volunteering with YoungLife when I'm off the keyboard.
 
 ---
 
-### 🗣 Languages
+### Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;&nbsp;
