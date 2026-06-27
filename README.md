@@ -4,7 +4,7 @@
 
 **CS @ NC State &nbsp;·&nbsp; Integration Engineer Intern @ Peter Millar &nbsp;·&nbsp; Raleigh, NC**
 
-Building software that solves real problems —
+Building systems that solves real problems 
 
 <br/>
 
