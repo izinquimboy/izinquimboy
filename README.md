@@ -2,22 +2,29 @@
 
 CS @ NC State · Integration Engineer Intern @ Peter Millar · Raleigh, NC
 
-Building systems that solves real problems 
+Building software that solves real problems 
+---
+
+**Languages**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
+
+**Tools & Platforms**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" title="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" title="Microsoft Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
 
 ---
 
-**Languages:** Java · Python · JavaScript · C · HTML/CSS  
-**Tools:** Spring Boot · Docker · Microsoft Azure · REST APIs · Git
-
----
-
-### Projects
-- [**Spotistats**](https://github.com/izinquimboy/spotistats) — Spotify analytics dashboard with OAuth2, PostgreSQL & Chart.js
-- [**To-Do List App**](https://github.com/izinquimboy/todo-spring-boot) — Full CRUD task manager with Spring Boot & MySQL
-- [**Weather Forecast App**](https://github.com/izinquimboy/javaWeatherForecast) — Java desktop app consuming a live weather REST API
-
----
-
+[![Website](https://img.shields.io/badge/Website-izielinq.dev-000000?style=flat&logo=safari&logoColor=white)](https://izinquimboy.github.io/izielinq-website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iziel--inquimboy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iziel-inquimboy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-izielinq-black?style=flat&logo=github&logoColor=white)](https://izinquimboy.github.io/izielinq-website)
 [![Email](https://img.shields.io/badge/Email-irinquim@ncsu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:irinquim@ncsu.edu)
